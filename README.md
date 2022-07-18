@@ -10,11 +10,7 @@
 
 ## :bookmark_tabs: Sobre
 
-Projeto desenvolvido na Next Level Week Together
-
-Intituição - Rocketseat
-
-Professor - Diego Fernandes
+Projeto pensado para atender a necessidade de streamers e de produtores de conteúdo que buscam um ambiente de organização das dúvidas e dos comentários de seu público em lives. Essa aplicação permite que o administrador de uma sala pontue quais questões foram respondidas, apresente o ponto que está sendo debatido no momento e descarte comentários indesejados, melhorando fortemente a experiência de quem fala e de quem ouve.
 
 <br>
 
